@@ -1,0 +1,14 @@
+M:\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.exe.config
+M:\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.exe
+M:\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.pdb
+M:\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.csproj.AssemblyReference.cache
+M:\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.csproj.CoreCompileInputs.cache
+M:\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.exe
+M:\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.pdb
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.exe.config
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.exe
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\bin\Debug\Maneger_Right_project.pdb
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.csproj.AssemblyReference.cache
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.csproj.CoreCompileInputs.cache
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.exe
+M:\webAPI\Maneger_Right_project\Maneger_Right_project\obj\Debug\Maneger_Right_project.pdb
